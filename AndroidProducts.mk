@@ -15,3 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_xt897.mk
+    $(LOCAL_DIR)/omni_xt897.mk
