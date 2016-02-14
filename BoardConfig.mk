@@ -22,7 +22,7 @@
 #
 
 # inherit from platform common
--include device/motorola/msm8960-common/BoardConfigCommon.mk
+-include device/motorola/msm8960_jbbl-common/BoardConfigCommon.mk
 
 # inherit from the proprietary version
 -include vendor/motorola/xt897/BoardConfigVendor.mk
