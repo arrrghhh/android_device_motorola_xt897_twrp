@@ -1,1 +1,2 @@
 add_lunch_combo omni_xt897-userdebug
+add_lunch_combo omni_xt897-eng
